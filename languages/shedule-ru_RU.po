@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shedule\n"
+"POT-Creation-Date: 2014-05-01 11:10+0200\n"
+"PO-Revision-Date: 2014-05-01 11:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: biz-online <banderos120@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: c:\\Users\\banderos\\Documents\\NetBeansProjects"
+"\\Fitnes\\fitnes.by\\wp-content\\plugins\\shedule\n"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_admin.php:47
+msgid "Shedule Post"
+msgstr "Запись расписания"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_admin.php:48
+msgid "Shedule Table"
+msgstr "Таблица расписания"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_admin.php:50
+msgid "Shedule"
+msgstr "Расписание"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_admin.php:51
+msgid "Add Shedule Table"
+msgstr "Добавить таблицу расписания"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_admin.php:52
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:218
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:222
+msgid "Options"
+msgstr "Настройки"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:80
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:143
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:148
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:164
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:76
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:125
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:142
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:154
+msgid "Unable to find schedules. Try adding a new"
+msgstr "Ни одного расписания не найдено. Попробуйте добавить новое"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:101
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:180
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:91
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:167
+msgid "Titile is empty. "
+msgstr "Заголовок не должен быть пустым"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:102
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:181
+msgid "Date is none checked. "
+msgstr "Дата не выбрана"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:103
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:182
+msgid "Time is none checked. "
+msgstr "Время не выбрано"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:124
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:203
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:108
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:185
+msgid "Shedule has bin saved"
+msgstr "Расписание сохранено"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:128
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule.php:207
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:112
+msgid "Shedule can not insert to the base"
+msgstr "Расписание не может быть сохранено"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:92
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:168
+msgid "Begining date is none checked. "
+msgstr "Начальная дата не выбрана"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:93
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:169
+msgid "End date is none checked. "
+msgstr "Конечная дата не выбрана"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:137
+msgid "Shedule does not delete"
+msgstr "Расписание не удалено"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/controller/sh_c_shedule_table.php:189
+msgid "Shedule does not update"
+msgstr "Расписание не обновлено"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:55
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:55
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:57
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:57
+msgid "Upload"
+msgstr "Загрузить"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:74
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:65
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:74
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:61
+msgid "Create Shedule Table"
+msgstr "Создать таблицу расписания"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:84
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:74
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:88
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:74
+msgid "Enter a title"
+msgstr "Введите заголовок"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:91
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:95
+msgid "Enter a link for title"
+msgstr "Введите ссылку для заголовка"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:93
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:97
+msgid "Open in new tab"
+msgstr "Открыть в новой вкладке"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:113
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:117
+msgid "Use Post Link"
+msgstr "Использовать ссылку на запись"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:115
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:119
+msgid "Use Post Excerpt like Tooltip"
+msgstr "Использовать цитату записи как подсказку"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:117
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:121
+msgid "Use Post Content like Tooltip"
+msgstr "Использовать содержание как подсказку"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:119
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:123
+msgid "Use Post Content like Description"
+msgstr "Использовать содержание как описание"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:124
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:128
+msgid "Select Post"
+msgstr "Выберите запись"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:143
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:158
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:166
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:174
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:199
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:217
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:94
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:109
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:117
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:125
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:147
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:162
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:170
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:178
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:203
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:221
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:94
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:110
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:118
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:126
+msgid "Press to change"
+msgstr "Нажмите, чтобы изменить"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:144
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:151
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:152
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:95
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:102
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:103
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:148
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:155
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:156
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:95
+msgid "Public"
+msgstr "Опубликовать"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:159
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:163
+msgid "Select event date"
+msgstr "Выберите дату события"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:167
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:171
+msgid "Select time"
+msgstr "Выберите время"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:175
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:179
+msgid "labels"
+msgstr "Метки"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:200
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:204
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:18
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:37
+msgid "Description"
+msgstr "Описание"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:221
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:225
+msgid "Background"
+msgstr "Фон"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule.php:230
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:235
+msgid "Upload background image"
+msgstr "Загрузить фоновое изображение"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:110
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:111
+msgid "Select shedule date start"
+msgstr "Выберите начальную дату"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:118
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:119
+msgid "Select shedule date end"
+msgstr "Выберите конечную дату"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:126
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:127
+msgid "Labels for table"
+msgstr "Метки таблицы"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:130
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:131
+msgid "Add"
+msgstr "Добавить"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_add_shedule_table.php:130
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:99
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:131
+msgid "Delete"
+msgstr "Удалить"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule.php:76
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:63
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:8
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:4
+msgid "Add new"
+msgstr "Добавить новое"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:103
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_edit_shedule_table.php:104
+msgid "Update"
+msgstr "Обновить"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:6
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:2
+msgid "Shedule tables"
+msgstr "Таблицы расписаний"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:15
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:34
+msgid "Title"
+msgstr "Заголовок"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:21
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:40
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:81
+msgid "Date begin"
+msgstr "Дата начала"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:24
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:43
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:88
+msgid "Date end"
+msgstr "Конечная дата"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:27
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:46
+msgid "Shortcode"
+msgstr "Шоткод"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:55
+#, php-format
+msgid "Edit shedule \"%s\""
+msgstr "Редактировать расписание \"%s\""
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:61
+msgid "Edit this element"
+msgstr "Редактировать этот элемент"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:62
+msgid "Edit"
+msgstr "Редактировать"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:67
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table.php:68
+msgid "Add event"
+msgstr "Добавить событие"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:20
+msgid "Shedule table"
+msgstr "Расписание"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:26
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:34
+#, php-format
+msgid "From %s to %s"
+msgstr "От %s до %s"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:53
+msgid "Mondey"
+msgstr "Понедельник"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:54
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:55
+msgid "Wednesday"
+msgstr "Среда"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:56
+msgid "Thursday"
+msgstr "Четверг"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:57
+msgid "Friday"
+msgstr "Пятница"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:58
+msgid "Saturday"
+msgstr "Суббота"
+
+#: c:\Users\banderos\Documents\NetBeansProjects\Fitnes\fitnes.by\wp-content\plugins\shedule/view/sh_v_shedule_table_tmpl.php:59
+msgid "Sunday"
+msgstr "Воскресенье"

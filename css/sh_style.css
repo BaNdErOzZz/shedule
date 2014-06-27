@@ -1,0 +1,261 @@
+/* 
+    Document   : style.css
+    Created on : Apr 1, 2014, 9:41:06 AM
+    Author     : Bondars Aleksandr
+    Description: Stylesheet for Shedule plugin.
+        Purpose of the stylesheet follows.
+*/
+
+/* CALENDAR BEGIN */
+.calendar-item-tooltip{
+    position: fixed;
+    width: 200px;
+    font-size: 11px;
+    z-index: 4;
+    background: #FFFFFF;
+    padding: 10px;
+    border: 1px solid #333;
+    display: none;
+}
+.calendar-box{
+    
+}
+.calendar-head{
+    height: 60px;
+    background: #004972;
+}
+.calendar-title{
+    float: left;
+    font-size: 34px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    line-height: 1.7em;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.calendar-date{
+    float: left;
+    margin: 0px 50px;
+}
+.calendar-select-box{}
+.calendar-select{
+    position: relative;
+}
+.calendar-select-head{
+    padding: 20px 20px;
+    background: #0E3D63;
+}
+.calendar-current{
+    text-transform: uppercase;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.calendar-select-body{
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+    background: #0E3D63;
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+}
+.calendar-select-item{
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+.calendar-select-item:hover{
+    background: #3883C0;
+}
+.active-calendar-item{
+    background: #3883C0;
+}
+.show-calendar-body{
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+.calendar-download{}
+.calendar-body{
+    margin-top: 40px;
+}
+table.calendar-table{
+    width: 100%;
+    position: relative;
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+}
+.active-calendar-table{
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;    
+}
+table.calendar-table thead{}
+table.calendar-table thead tr{}
+table.calendar-table thead tr th{
+    background: #ccc;
+    padding: 4px 0px;
+    width: 146px;
+    font-size: 14px;
+}
+table.calendar-table tbody{}
+table.calendar-table tbody tr{}
+table.calendar-table tbody tr td{
+    width: 146px;
+    background-color: #DEFFDC;
+    border: 1px solid #777;
+    background-size: cover !important;
+    background-position: 50% 50% !important;
+    padding: 0px;
+    vertical-align: top;
+}
+.calendar-item-wrapper{
+    padding: 20px 10px;
+    position: relative;
+    height: 100%;
+}
+.calendar-item-time{
+    position: absolute;
+    top: 0px;
+    font-size: 12px;
+    border-bottom: 1px dotted;
+}
+.calendar-item-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #0000F3;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.calendar-item-excerpt{
+    font-size: 14px;
+    padding-top: 10px;
+}
+.calendar-item-excerpt img{
+    
+}
+
+.calendar-item-desc{
+    font-size: 14px;
+    margin-top: 10px;
+    color: #474747;
+    border-bottom: 1px dotted;
+    text-align: center;
+}
+.calendar-item-labels{
+    position: absolute;
+    top: 3px;
+    right: 2px;
+}
+.calendar-item-label{
+    width: 10px;
+    height: 10px;
+    float: left;
+    margin-right: 3px;
+}
+.calendar-controls{
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    bottom: 0px;
+    background: #FFFFFF;
+    text-align: center;
+}
+.calendar-controls a{
+    
+}
+.control-del{
+    color: #EE0000;
+    cursor: pointer;
+}
+.control-edit{}
+.calendar-info{
+    margin-top: 50px;
+}
+.calendar-empty-cell{}
+.calendar-empty-cell form{}
+.calendar-add-shedule{}
+.calendar-empty-cell .calendar-add-shedule-btn{
+    display: none;
+    opacity: 0;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 21px;
+    text-align: center;
+    background: none repeat scroll 0% 0% #6BB483;
+    color: #FFF;
+    text-shadow: 0px 0px 1px #000;
+    border: 1px solid #3BA33B;
+    line-height: 20px;
+    padding: 0px;
+}
+.calendar-empty-cell:hover .calendar-add-shedule-btn{
+    display: block;
+    opacity: 1;
+    
+}
+/* CALENDAR END */
+
+
+.sh-wrapper{
+    position: relative;
+    margin: 20px 0px;
+}
+h3.sh-wrap-title{
+    position: absolute;
+    padding: 0px 10px !important;
+    border-bottom: 0px;
+    top: -10px;
+    left: 20px;
+    background: #FFFFFF;
+    color: #666;
+}
+.sh-wrap-body{
+    border: 1px solid #efefef;
+    padding: 20px;
+    border-radius: 10px;
+}
+img.shedule_bkg_image{
+    width: 200px !important;
+    min-height: 150px;
+    background: #F8F8F8;
+    float: left;
+    margin: 10px 20px;
+}
+input.shedule_bkg_url{
+    width: 300px;
+    font-size: 12px;
+}
+.sh-labels-row{
+    margin: 10px 0px;
+}
+.calendar-time-cell{
+    text-align: center;
+    width: 50px !important;
+    background-color: transparent !important;
+    border: 0px solid transparent !important;
+    vertical-align: middle !important;
+    font-size: 24px;
+    text-decoration: underline;
+}
+.calendar-time-col{
+    background: transparent;
+    width: 50px;
+}
+
+.sh-delete-table{
+    cursor: pointer;
+}
+
+.sh-delete-table:hover{
+    text-decoration: underline;
+}
